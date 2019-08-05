@@ -17,6 +17,8 @@ In general, unfinished parts in the docs are marked as `ToDo`.
 
 The following list only contains tasks for the whole documentation.
 
+ - cover more endpoints
  - swap child-numbering for concrete classes or ids where possible
  - document needed authentication
  - document other cookies
+ - check if optional fields may be omitted by server
